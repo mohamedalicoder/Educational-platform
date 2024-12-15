@@ -5,8 +5,8 @@
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
-                        <img src="assets/images/logo.png" width="80" height="80" alt="EduWell Template">
+                    <a href="./" class="logo">
+                        <img src="assets/images/logo.png" style="width: 350px; height: 100px; !important" alt="EduWell Template">
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
