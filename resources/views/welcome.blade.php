@@ -11,8 +11,8 @@ Mocoder
       <div class="row">
         <div class="col-lg-6 align-self-center">
           <div class="header-text">
-            <h6>Welcome to our school</h6>
-            <h2>Best Place To Learn Graphic <em>Design!</em></h2>
+            <h6>Welcome to Mohamed Ali web school</h6>
+            <h2>Best Place To Learn With Mohamed Ali web <em>Development!</em></h2>
             <div class="main-button-gradient">
               <div class="scroll-to-section"><a href="#contact-section">Join Us Now!</a></div>
             </div>

@@ -6,12 +6,12 @@
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.html" class="logo">
-                        <img src="assets/images/templatemo-eduwell.png" alt="EduWell Template">
+                        <img src="assets/images/logo.png" width="80" height="80" alt="EduWell Template">
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                        <li class="scroll-to-section"><a href="/" class="active">Home</a></li>
+                        <li class="scroll-to-section"><a href="./" class="active">Home</a></li>
                         <li class="scroll-to-section"><a href="#services">Services</a></li>
                         <li class="scroll-to-section"><a href="#courses">Courses</a></li>
                         <li class="has-sub">
